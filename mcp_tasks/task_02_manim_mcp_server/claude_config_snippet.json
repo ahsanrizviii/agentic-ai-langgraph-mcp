@@ -1,0 +1,9 @@
+{
+  "manim-server": {
+    "command": "D:\\agentic_ai\\mcp_tasks\\task_02_manim_mcp_server\\.venv\\Scripts\\python.exe",
+    "args": ["D:\\agentic_ai\\mcp_tasks\\task_02_manim_mcp_server\\src\\manim_server.py"],
+    "env": {
+      "MANIM_EXECUTABLE": "D:\\agentic_ai\\mcp_tasks\\task_02_manim_mcp_server\\.venv\\Scripts\\manim.exe"
+    }
+  }
+}

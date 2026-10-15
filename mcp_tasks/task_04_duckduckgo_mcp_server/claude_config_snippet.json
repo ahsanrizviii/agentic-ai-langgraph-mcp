@@ -1,0 +1,6 @@
+{
+  "ddg-search": {
+    "command": "npx",
+    "args": ["-y", "duckduckgo-websearch"]
+  }
+}

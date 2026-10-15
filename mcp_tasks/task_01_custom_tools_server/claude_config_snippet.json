@@ -1,0 +1,6 @@
+{
+  "mcpsrv_customtools": {
+    "command": "python",
+    "args": ["D:\\agentic_ai\\mcp_tasks\\task_01_custom_tools_server\\main.py"]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "weather": {
+    "command": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\mcp-weather.exe",
+    "env": {
+      "ACCUWEATHER_API_KEY": "your_accuweather_api_key_here"
+    }
+  }
+}

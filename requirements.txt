@@ -1,0 +1,15 @@
+# LangGraph tasks (langgraph_tasks/)
+# Each MCP task has its own requirements file — see mcp_tasks/*/requirements.txt
+langgraph
+langgraph-checkpoint-postgres
+psycopg[binary]
+langchain-core
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+pypdf
+requests
+wikipedia
+youtube-search
+stackapi

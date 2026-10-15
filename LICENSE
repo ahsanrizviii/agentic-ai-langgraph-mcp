@@ -1,0 +1,14 @@
+Copyright (c) 2026 Ahsan Rizvi
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
+
+You are free to share and adapt this material for non-commercial purposes,
+provided you give appropriate credit to Ahsan Rizvi, link to this repository,
+and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Third-party components keep their original licenses:
+  - mcp_tasks/task_02_manim_mcp_server  — adapted from abhiemj/manim-mcp-server (MIT, see LICENSE.txt in that folder)
+  - mcp_tasks/task_03_weather_mcp_server — adapted from adhikasp/mcp-weather (public domain / Unlicense, see LICENSE in that folder)
